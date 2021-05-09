@@ -1,0 +1,14 @@
+.ul :not(:first-child) {
+    margin-top: 3px;
+  }
+  .li {
+    font-weight: 600;
+  }
+  .button {
+    margin-left: 20px;
+  }
+  .button:active {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+  }
